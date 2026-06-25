@@ -14,11 +14,11 @@ namespace StudentResultsProcessingSystem
         // easy to reuse and easy to change in one place.
         static readonly string[] Courses =
         {
-            "Programming with C#",
+            "Operating Systems",
             "Programming with Java",
-            "Computer Networks",
-            "Human Computer Interaction",
-            "Programming with Python"
+            "Information Theory",
+            "Computer Architecture",
+            "Digital Systems"
         };
 
         // The minimum number of students the assignment requires.
